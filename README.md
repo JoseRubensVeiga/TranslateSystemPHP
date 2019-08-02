@@ -18,8 +18,3 @@ Caso ele não ache o arquivo para tradução, ele apontará um erro.
 Caso ele não ache o índice para traduzir ele retornará o proprio texto.
 
 A linguagem da tradução será selecionada pela SESSION do PHP o arquivo env.php define a linguagem padrão, porém a SESSION['language'] poderá ser alterada de acordo com a escolha do usuário.
-
---------------- FAVOR ESTUDAR OS CÓDIGOS CONTIDOS NESSE PROJETO ----------------
-
-Caso não entenda de primeira, não tem problema, apenas pegue o contexto de como é feito.
-Qualquer pergunta, mandar no grupo do whatsapp.
