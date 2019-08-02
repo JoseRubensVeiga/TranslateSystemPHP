@@ -1,6 +1,4 @@
-<?php
-require 'helpers/helper.php';
-?>
+<?php require 'helpers/helper.php'; ?>
 <!DOCTYPE html>
 <html lang="<?= getLanguage(); ?>">
 <head>
