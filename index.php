@@ -15,7 +15,7 @@
     desse modo: __('texto a ser traduzido')
     <br>
     Exemplo real:
-    <strong><?= __('Olá Mundo') ?></strong>
+    <strong><?php __('Olá Mundo') ?></strong>
 
     
     <p>Veja no código fonte do arquivo</p>
