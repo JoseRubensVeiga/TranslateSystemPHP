@@ -1,6 +1,5 @@
-# translate_session_php
-
-O sistema a seguir tem o intuito de facilitar a tradução entre páginas
+# Sistema de tradução com PHP
+## O sistema a seguir tem o intuito de facilitar a tradução entre páginas
 
 Os arquivos json dentro de "Languages" são os arquivos de tradução das suas respectivas linguagens. Cada um dos arquivos deve conter o conteúdo que seja traduzido e a tradução do mesmo.
 
