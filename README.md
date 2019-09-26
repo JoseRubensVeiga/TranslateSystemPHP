@@ -1,6 +1,6 @@
 
 # Sistema de tradução com PHP
-## O sistema a seguir tem o intuito de facilitar a tradução de páginas utilizando PHP
+## Este projeto tem o intuito de facilitar a tradução de páginas utilizando PHP
 
 Este projeto usa as sessões para manipular os textos que serão apresentados em tela dentro de um site ou sistema escrito em PHP. Em vez de recriar o site em inglês e alternar as navegações, é possível fazer a tradução dinâmica do texto em português para inglês (ou qualquer outro idioma) de forma dinâmica.
 ## Estrutura de pastas
